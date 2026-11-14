@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.frontalminds.gonidahir.quran"
+    namespace = "com.gonidahir.quran"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = "28.2.13676358"
 
@@ -15,7 +15,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.frontalminds.gonidahir.quran"
+        applicationId = "com.gonidahir.quran"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode

@@ -1,4 +1,4 @@
-package com.frontalminds.gonidahir.quran
+package com.gonidahir.quran
 
 import com.ryanheise.audioservice.AudioServiceActivity
 

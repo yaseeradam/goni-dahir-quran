@@ -13,7 +13,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   await JustAudioBackground.init(
-    androidNotificationChannelId: 'com.frontalminds.gonidahir.quran.audio.v1',
+    androidNotificationChannelId: 'com.gonidahir.quran.audio.v1',
     androidNotificationChannelName: 'Goni Dahir Quran Audio',
     androidNotificationChannelDescription: 'Goni Dahir Quran Recitation Playback Controls',
     androidNotificationOngoing: false,
